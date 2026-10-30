@@ -1,0 +1,102 @@
+{
+  "history": [
+    {
+      "epoch": 1,
+      "train": {
+        "loss": 0.7239776047070822,
+        "accuracy": 0.7354444444444445
+      },
+      "validation": {
+        "loss": 0.4554115294615428,
+        "accuracy": 0.8366666666666667
+      }
+    },
+    {
+      "epoch": 2,
+      "train": {
+        "loss": 0.4451303736898634,
+        "accuracy": 0.8401111111111111
+      },
+      "validation": {
+        "loss": 0.3661397054195404,
+        "accuracy": 0.8648333333333333
+      }
+    },
+    {
+      "epoch": 3,
+      "train": {
+        "loss": 0.3850778465182693,
+        "accuracy": 0.8613703703703703
+      },
+      "validation": {
+        "loss": 0.3466148318449656,
+        "accuracy": 0.8756666666666667
+      }
+    },
+    {
+      "epoch": 4,
+      "train": {
+        "loss": 0.35430929408250034,
+        "accuracy": 0.8720185185185185
+      },
+      "validation": {
+        "loss": 0.3171953179836273,
+        "accuracy": 0.882
+      }
+    },
+    {
+      "epoch": 5,
+      "train": {
+        "loss": 0.3307870541501928,
+        "accuracy": 0.8798888888888889
+      },
+      "validation": {
+        "loss": 0.30339513409137725,
+        "accuracy": 0.8888333333333334
+      }
+    },
+    {
+      "epoch": 6,
+      "train": {
+        "loss": 0.3122362245277122,
+        "accuracy": 0.8876296296296297
+      },
+      "validation": {
+        "loss": 0.2844726612170537,
+        "accuracy": 0.8956666666666667
+      }
+    },
+    {
+      "epoch": 7,
+      "train": {
+        "loss": 0.2964629600136368,
+        "accuracy": 0.8918888888888888
+      },
+      "validation": {
+        "loss": 0.27549309881528217,
+        "accuracy": 0.8971666666666667
+      }
+    },
+    {
+      "epoch": 8,
+      "train": {
+        "loss": 0.2871390806304084,
+        "accuracy": 0.8961666666666667
+      },
+      "validation": {
+        "loss": 0.2752432800928752,
+        "accuracy": 0.896
+      }
+    }
+  ],
+  "best_epoch": 8,
+  "seed": 42,
+  "training_seconds": 90.59,
+  "environment": {
+    "platform": "macOS-14.7.4-arm64-arm-64bit-Mach-O",
+    "python": "3.13.2",
+    "torch": "2.14.1",
+    "device": "cpu",
+    "threads": 4
+  }
+}
