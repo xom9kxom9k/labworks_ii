@@ -1,0 +1,8 @@
+
+Эксперимент: baseline
+Тест: accuracy=91.19%, loss=0.2526
+
+Эксперимент: augmented
+Тест: accuracy=90.92%, loss=0.2506
+Изменение точности: -0.27 п.п.
+Результаты сохранены: /Users/vaceslav/Desktop/ulstu/СИИ/lab2/results

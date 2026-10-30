@@ -1,0 +1,194 @@
+{
+  "history": [
+    {
+      "epoch": 1,
+      "train": {
+        "loss": 0.8645719274061697,
+        "accuracy": 0.681962962962963
+      },
+      "validation": {
+        "loss": 0.5480757774511973,
+        "accuracy": 0.7951666666666667
+      }
+    },
+    {
+      "epoch": 2,
+      "train": {
+        "loss": 0.59113388160423,
+        "accuracy": 0.7775185185185185
+      },
+      "validation": {
+        "loss": 0.4522552064259847,
+        "accuracy": 0.8315
+      }
+    },
+    {
+      "epoch": 3,
+      "train": {
+        "loss": 0.5325846532539085,
+        "accuracy": 0.8009259259259259
+      },
+      "validation": {
+        "loss": 0.40849397889773054,
+        "accuracy": 0.8516666666666667
+      }
+    },
+    {
+      "epoch": 4,
+      "train": {
+        "loss": 0.4919401442033273,
+        "accuracy": 0.8168703703703704
+      },
+      "validation": {
+        "loss": 0.3822342391014099,
+        "accuracy": 0.8611666666666666
+      }
+    },
+    {
+      "epoch": 5,
+      "train": {
+        "loss": 0.468290197301794,
+        "accuracy": 0.8261851851851851
+      },
+      "validation": {
+        "loss": 0.3568688830534617,
+        "accuracy": 0.8673333333333333
+      }
+    },
+    {
+      "epoch": 6,
+      "train": {
+        "loss": 0.44623321467858773,
+        "accuracy": 0.8325185185185185
+      },
+      "validation": {
+        "loss": 0.35870081623395283,
+        "accuracy": 0.8695
+      }
+    },
+    {
+      "epoch": 7,
+      "train": {
+        "loss": 0.4297292995011365,
+        "accuracy": 0.8398888888888889
+      },
+      "validation": {
+        "loss": 0.3368857239087423,
+        "accuracy": 0.8788333333333334
+      }
+    },
+    {
+      "epoch": 8,
+      "train": {
+        "loss": 0.42026183292600844,
+        "accuracy": 0.8442222222222222
+      },
+      "validation": {
+        "loss": 0.32202090589205423,
+        "accuracy": 0.8825
+      }
+    },
+    {
+      "epoch": 9,
+      "train": {
+        "loss": 0.40821030177893464,
+        "accuracy": 0.8483703703703703
+      },
+      "validation": {
+        "loss": 0.3173625073035558,
+        "accuracy": 0.8831666666666667
+      }
+    },
+    {
+      "epoch": 10,
+      "train": {
+        "loss": 0.3967416527006361,
+        "accuracy": 0.8524259259259259
+      },
+      "validation": {
+        "loss": 0.30475851917266844,
+        "accuracy": 0.89
+      }
+    },
+    {
+      "epoch": 11,
+      "train": {
+        "loss": 0.3894472886986203,
+        "accuracy": 0.8564259259259259
+      },
+      "validation": {
+        "loss": 0.3021216071844101,
+        "accuracy": 0.8908333333333334
+      }
+    },
+    {
+      "epoch": 12,
+      "train": {
+        "loss": 0.38033169585687143,
+        "accuracy": 0.8569814814814815
+      },
+      "validation": {
+        "loss": 0.28790102859338124,
+        "accuracy": 0.8976666666666666
+      }
+    },
+    {
+      "epoch": 13,
+      "train": {
+        "loss": 0.3726341444827892,
+        "accuracy": 0.8626481481481482
+      },
+      "validation": {
+        "loss": 0.2951950531800588,
+        "accuracy": 0.8938333333333334
+      }
+    },
+    {
+      "epoch": 14,
+      "train": {
+        "loss": 0.3665968187650045,
+        "accuracy": 0.8648703703703704
+      },
+      "validation": {
+        "loss": 0.28923014028867083,
+        "accuracy": 0.8943333333333333
+      }
+    },
+    {
+      "epoch": 15,
+      "train": {
+        "loss": 0.35883160131065933,
+        "accuracy": 0.8677407407407407
+      },
+      "validation": {
+        "loss": 0.28166257464885713,
+        "accuracy": 0.897
+      }
+    },
+    {
+      "epoch": 16,
+      "train": {
+        "loss": 0.3511163307472512,
+        "accuracy": 0.8718148148148148
+      },
+      "validation": {
+        "loss": 0.2767398113012314,
+        "accuracy": 0.8981666666666667
+      }
+    }
+  ],
+  "best_epoch": 16,
+  "seed": 42,
+  "epochs": 16,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "augmentation": "Compose(\n    RandomHorizontalFlip(p=0.5)\n    RandomAffine(degrees=[-5.0, 5.0], translate=(0.07, 0.07), scale=(0.95, 1.05))\n)",
+  "training_seconds": 284.49,
+  "environment": {
+    "platform": "macOS-14.7.4-arm64-arm-64bit-Mach-O",
+    "python": "3.13.2",
+    "torch": "2.14.1",
+    "device": "cpu",
+    "threads": 4
+  }
+}

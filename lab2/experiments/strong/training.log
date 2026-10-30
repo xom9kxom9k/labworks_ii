@@ -1,0 +1,42 @@
+2026-10-30 20:18:04.843 system_profiler[68236:1909120] XType: Using static font registry.
+Matplotlib is building the font cache; this may take a moment.
+
+Эксперимент: baseline
+Эпоха 1/16: loss=0.6947, accuracy=74.82%; val_loss=0.4296, val_accuracy=84.80%
+Эпоха 2/16: loss=0.4268, accuracy=84.71%; val_loss=0.3512, val_accuracy=87.15%
+Эпоха 3/16: loss=0.3699, accuracy=86.77%; val_loss=0.3199, val_accuracy=88.08%
+Эпоха 4/16: loss=0.3370, accuracy=87.75%; val_loss=0.3124, val_accuracy=88.77%
+Эпоха 5/16: loss=0.3176, accuracy=88.45%; val_loss=0.2932, val_accuracy=89.12%
+Эпоха 6/16: loss=0.3005, accuracy=89.10%; val_loss=0.2964, val_accuracy=88.98%
+Эпоха 7/16: loss=0.2861, accuracy=89.53%; val_loss=0.2740, val_accuracy=89.60%
+Эпоха 8/16: loss=0.2718, accuracy=90.19%; val_loss=0.2727, val_accuracy=89.97%
+Эпоха 9/16: loss=0.2618, accuracy=90.43%; val_loss=0.2539, val_accuracy=90.45%
+Эпоха 10/16: loss=0.2510, accuracy=90.80%; val_loss=0.2497, val_accuracy=90.60%
+Эпоха 11/16: loss=0.2478, accuracy=91.05%; val_loss=0.2458, val_accuracy=90.92%
+Эпоха 12/16: loss=0.2376, accuracy=91.24%; val_loss=0.2491, val_accuracy=91.02%
+Эпоха 13/16: loss=0.2282, accuracy=91.67%; val_loss=0.2398, val_accuracy=91.25%
+Эпоха 14/16: loss=0.2209, accuracy=91.92%; val_loss=0.2401, val_accuracy=91.15%
+Эпоха 15/16: loss=0.2130, accuracy=92.12%; val_loss=0.2312, val_accuracy=91.58%
+Эпоха 16/16: loss=0.2091, accuracy=92.35%; val_loss=0.2306, val_accuracy=91.60%
+Тест: accuracy=91.19%, loss=0.2526
+
+Эксперимент: augmented
+Эпоха 1/16: loss=0.8646, accuracy=68.20%; val_loss=0.5481, val_accuracy=79.52%
+Эпоха 2/16: loss=0.5911, accuracy=77.75%; val_loss=0.4523, val_accuracy=83.15%
+Эпоха 3/16: loss=0.5326, accuracy=80.09%; val_loss=0.4085, val_accuracy=85.17%
+Эпоха 4/16: loss=0.4919, accuracy=81.69%; val_loss=0.3822, val_accuracy=86.12%
+Эпоха 5/16: loss=0.4683, accuracy=82.62%; val_loss=0.3569, val_accuracy=86.73%
+Эпоха 6/16: loss=0.4462, accuracy=83.25%; val_loss=0.3587, val_accuracy=86.95%
+Эпоха 7/16: loss=0.4297, accuracy=83.99%; val_loss=0.3369, val_accuracy=87.88%
+Эпоха 8/16: loss=0.4203, accuracy=84.42%; val_loss=0.3220, val_accuracy=88.25%
+Эпоха 9/16: loss=0.4082, accuracy=84.84%; val_loss=0.3174, val_accuracy=88.32%
+Эпоха 10/16: loss=0.3967, accuracy=85.24%; val_loss=0.3048, val_accuracy=89.00%
+Эпоха 11/16: loss=0.3894, accuracy=85.64%; val_loss=0.3021, val_accuracy=89.08%
+Эпоха 12/16: loss=0.3803, accuracy=85.70%; val_loss=0.2879, val_accuracy=89.77%
+Эпоха 13/16: loss=0.3726, accuracy=86.26%; val_loss=0.2952, val_accuracy=89.38%
+Эпоха 14/16: loss=0.3666, accuracy=86.49%; val_loss=0.2892, val_accuracy=89.43%
+Эпоха 15/16: loss=0.3588, accuracy=86.77%; val_loss=0.2817, val_accuracy=89.70%
+Эпоха 16/16: loss=0.3511, accuracy=87.18%; val_loss=0.2767, val_accuracy=89.82%
+Тест: accuracy=89.81%, loss=0.2814
+Изменение точности: -1.38 п.п.
+Результаты сохранены: /Users/vaceslav/Desktop/ulstu/СИИ/lab2/results

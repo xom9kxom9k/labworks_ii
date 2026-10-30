@@ -1,0 +1,19 @@
+Эксперимент: augmented (мягкая аугментация)
+Эпоха 1/16: loss=0.7654, accuracy=72.54%; val_loss=0.4708, val_accuracy=83.23%
+Эпоха 2/16: loss=0.4800, accuracy=82.83%; val_loss=0.3826, val_accuracy=86.27%
+Эпоха 3/16: loss=0.4194, accuracy=84.94%; val_loss=0.3427, val_accuracy=87.40%
+Эпоха 4/16: loss=0.3842, accuracy=86.09%; val_loss=0.3480, val_accuracy=87.55%
+Эпоха 5/16: loss=0.3666, accuracy=86.63%; val_loss=0.3149, val_accuracy=88.55%
+Эпоха 6/16: loss=0.3454, accuracy=87.42%; val_loss=0.3146, val_accuracy=88.42%
+Эпоха 7/16: loss=0.3330, accuracy=87.81%; val_loss=0.2871, val_accuracy=89.53%
+Эпоха 8/16: loss=0.3225, accuracy=88.20%; val_loss=0.2835, val_accuracy=89.77%
+Эпоха 9/16: loss=0.3110, accuracy=88.80%; val_loss=0.2826, val_accuracy=89.27%
+Эпоха 10/16: loss=0.3034, accuracy=88.98%; val_loss=0.2744, val_accuracy=90.18%
+Эпоха 11/16: loss=0.2952, accuracy=89.18%; val_loss=0.2595, val_accuracy=90.42%
+Эпоха 12/16: loss=0.2883, accuracy=89.42%; val_loss=0.2647, val_accuracy=90.37%
+Эпоха 13/16: loss=0.2824, accuracy=89.68%; val_loss=0.2533, val_accuracy=90.65%
+Эпоха 14/16: loss=0.2724, accuracy=90.06%; val_loss=0.2479, val_accuracy=90.98%
+Эпоха 15/16: loss=0.2695, accuracy=90.03%; val_loss=0.2440, val_accuracy=90.62%
+Эпоха 16/16: loss=0.2645, accuracy=90.35%; val_loss=0.2423, val_accuracy=90.90%
+Тест: accuracy=90.79%, loss=0.2530
+Изменение точности: -0.40 п.п.

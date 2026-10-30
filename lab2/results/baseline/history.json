@@ -1,0 +1,194 @@
+{
+  "history": [
+    {
+      "epoch": 1,
+      "train": {
+        "loss": 0.6946662655053315,
+        "accuracy": 0.7481851851851852
+      },
+      "validation": {
+        "loss": 0.4296261512438456,
+        "accuracy": 0.848
+      }
+    },
+    {
+      "epoch": 2,
+      "train": {
+        "loss": 0.42684546747914065,
+        "accuracy": 0.8471296296296297
+      },
+      "validation": {
+        "loss": 0.35123799602190653,
+        "accuracy": 0.8715
+      }
+    },
+    {
+      "epoch": 3,
+      "train": {
+        "loss": 0.3698856197463142,
+        "accuracy": 0.8676666666666667
+      },
+      "validation": {
+        "loss": 0.3199241141875585,
+        "accuracy": 0.8808333333333334
+      }
+    },
+    {
+      "epoch": 4,
+      "train": {
+        "loss": 0.33704496442830123,
+        "accuracy": 0.877462962962963
+      },
+      "validation": {
+        "loss": 0.31241880138715106,
+        "accuracy": 0.8876666666666667
+      }
+    },
+    {
+      "epoch": 5,
+      "train": {
+        "loss": 0.317562407374382,
+        "accuracy": 0.884537037037037
+      },
+      "validation": {
+        "loss": 0.29316803805033365,
+        "accuracy": 0.8911666666666667
+      }
+    },
+    {
+      "epoch": 6,
+      "train": {
+        "loss": 0.3005422787313108,
+        "accuracy": 0.890962962962963
+      },
+      "validation": {
+        "loss": 0.296440331419309,
+        "accuracy": 0.8898333333333334
+      }
+    },
+    {
+      "epoch": 7,
+      "train": {
+        "loss": 0.2861070866673081,
+        "accuracy": 0.8953148148148148
+      },
+      "validation": {
+        "loss": 0.2739600734313329,
+        "accuracy": 0.896
+      }
+    },
+    {
+      "epoch": 8,
+      "train": {
+        "loss": 0.2718284033934275,
+        "accuracy": 0.9019074074074074
+      },
+      "validation": {
+        "loss": 0.2726946014960607,
+        "accuracy": 0.8996666666666666
+      }
+    },
+    {
+      "epoch": 9,
+      "train": {
+        "loss": 0.26176418316364286,
+        "accuracy": 0.9042592592592592
+      },
+      "validation": {
+        "loss": 0.25389392217000323,
+        "accuracy": 0.9045
+      }
+    },
+    {
+      "epoch": 10,
+      "train": {
+        "loss": 0.25101670141573307,
+        "accuracy": 0.9079814814814815
+      },
+      "validation": {
+        "loss": 0.2496520313024521,
+        "accuracy": 0.906
+      }
+    },
+    {
+      "epoch": 11,
+      "train": {
+        "loss": 0.24777771973168408,
+        "accuracy": 0.910537037037037
+      },
+      "validation": {
+        "loss": 0.24575094401836395,
+        "accuracy": 0.9091666666666667
+      }
+    },
+    {
+      "epoch": 12,
+      "train": {
+        "loss": 0.23760589867168003,
+        "accuracy": 0.912425925925926
+      },
+      "validation": {
+        "loss": 0.24912968798478444,
+        "accuracy": 0.9101666666666667
+      }
+    },
+    {
+      "epoch": 13,
+      "train": {
+        "loss": 0.22822289061104808,
+        "accuracy": 0.9166851851851852
+      },
+      "validation": {
+        "loss": 0.23980994415283202,
+        "accuracy": 0.9125
+      }
+    },
+    {
+      "epoch": 14,
+      "train": {
+        "loss": 0.22085972674687704,
+        "accuracy": 0.9192407407407407
+      },
+      "validation": {
+        "loss": 0.24009283232688905,
+        "accuracy": 0.9115
+      }
+    },
+    {
+      "epoch": 15,
+      "train": {
+        "loss": 0.21299169811496027,
+        "accuracy": 0.9211666666666667
+      },
+      "validation": {
+        "loss": 0.2312339075009028,
+        "accuracy": 0.9158333333333334
+      }
+    },
+    {
+      "epoch": 16,
+      "train": {
+        "loss": 0.20907292173526906,
+        "accuracy": 0.9234629629629629
+      },
+      "validation": {
+        "loss": 0.23055820478995642,
+        "accuracy": 0.916
+      }
+    }
+  ],
+  "best_epoch": 16,
+  "seed": 42,
+  "epochs": 16,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "augmentation": null,
+  "training_seconds": 172.92,
+  "environment": {
+    "platform": "macOS-14.7.4-arm64-arm-64bit-Mach-O",
+    "python": "3.13.2",
+    "torch": "2.14.1",
+    "device": "cpu",
+    "threads": 4
+  }
+}
