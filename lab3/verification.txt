@@ -1,0 +1,11 @@
+test_generation (test_main.TextTests.test_generation) ... ok
+test_learning (test_main.TextTests.test_learning) ... ok
+test_windows (test_main.TextTests.test_windows) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.957s
+
+OK
+
+Повторная оценка: python main.py --evaluate — выполнена успешно.
+metrics.json до и после повторной загрузки весов побайтово совпадают (cmp).

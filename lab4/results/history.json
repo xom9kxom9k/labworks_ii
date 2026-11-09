@@ -1,0 +1,1018 @@
+{
+  "history": [
+    {
+      "epoch": 1,
+      "train": {
+        "loss": 1.3997985601425171,
+        "iou": 2.9015784586815226e-06,
+        "dice": 5.8031400790967995e-06,
+        "pixel_accuracy": 0.8247075398763021,
+        "pixels": {
+          "tp": 1,
+          "fp": 44,
+          "fn": 344595,
+          "tn": 1621440
+        }
+      },
+      "validation": {
+        "loss": 1.3184403896331787,
+        "iou": 0.0,
+        "dice": 0.0,
+        "pixel_accuracy": 0.80697509765625,
+        "pixels": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 79063,
+          "tn": 330537
+        }
+      }
+    },
+    {
+      "epoch": 2,
+      "train": {
+        "loss": 1.3023669163386027,
+        "iou": 0.0,
+        "dice": 0.0,
+        "pixel_accuracy": 0.8247294108072917,
+        "pixels": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 344596,
+          "tn": 1621484
+        }
+      },
+      "validation": {
+        "loss": 1.2948563623428344,
+        "iou": 0.0,
+        "dice": 0.0,
+        "pixel_accuracy": 0.80697509765625,
+        "pixels": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 79063,
+          "tn": 330537
+        }
+      }
+    },
+    {
+      "epoch": 3,
+      "train": {
+        "loss": 1.2740175485610963,
+        "iou": 0.0,
+        "dice": 0.0,
+        "pixel_accuracy": 0.8247294108072917,
+        "pixels": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 344596,
+          "tn": 1621484
+        }
+      },
+      "validation": {
+        "loss": 1.2574323415756226,
+        "iou": 0.0,
+        "dice": 0.0,
+        "pixel_accuracy": 0.80697509765625,
+        "pixels": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 79063,
+          "tn": 330537
+        }
+      }
+    },
+    {
+      "epoch": 4,
+      "train": {
+        "loss": 1.2438950856526694,
+        "iou": 0.0,
+        "dice": 0.0,
+        "pixel_accuracy": 0.8247294108072917,
+        "pixels": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 344596,
+          "tn": 1621484
+        }
+      },
+      "validation": {
+        "loss": 1.2131210327148438,
+        "iou": 0.0,
+        "dice": 0.0,
+        "pixel_accuracy": 0.80697509765625,
+        "pixels": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 79063,
+          "tn": 330537
+        }
+      }
+    },
+    {
+      "epoch": 5,
+      "train": {
+        "loss": 1.193512233098348,
+        "iou": 0.0,
+        "dice": 0.0,
+        "pixel_accuracy": 0.8247294108072917,
+        "pixels": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 344596,
+          "tn": 1621484
+        }
+      },
+      "validation": {
+        "loss": 1.1376630878448486,
+        "iou": 0.0004173147691490572,
+        "dice": 0.0008342813803564657,
+        "pixel_accuracy": 0.807021484375,
+        "pixels": {
+          "tp": 33,
+          "fp": 14,
+          "fn": 79030,
+          "tn": 330523
+        }
+      }
+    },
+    {
+      "epoch": 6,
+      "train": {
+        "loss": 1.1287331024805705,
+        "iou": 0.09406738372746692,
+        "dice": 0.17195903127462062,
+        "pixel_accuracy": 0.8278696695963542,
+        "pixels": {
+          "tp": 35140,
+          "fp": 28966,
+          "fn": 309456,
+          "tn": 1592518
+        }
+      },
+      "validation": {
+        "loss": 1.0818800687789918,
+        "iou": 0.3943529503972725,
+        "dice": 0.5656429389487293,
+        "pixel_accuracy": 0.84907470703125,
+        "pixels": {
+          "tp": 40252,
+          "fp": 23008,
+          "fn": 38811,
+          "tn": 307529
+        }
+      }
+    },
+    {
+      "epoch": 7,
+      "train": {
+        "loss": 1.0535211602846781,
+        "iou": 0.2956799222754531,
+        "dice": 0.45640889727793976,
+        "pixel_accuracy": 0.828912353515625,
+        "pixels": {
+          "tp": 141212,
+          "fp": 132988,
+          "fn": 203384,
+          "tn": 1488496
+        }
+      },
+      "validation": {
+        "loss": 1.0065371632575988,
+        "iou": 0.3678256950322644,
+        "dice": 0.5378253915950718,
+        "pixel_accuracy": 0.85960205078125,
+        "pixels": {
+          "tp": 33460,
+          "fp": 11904,
+          "fn": 45603,
+          "tn": 318633
+        }
+      }
+    },
+    {
+      "epoch": 8,
+      "train": {
+        "loss": 1.0044737339019776,
+        "iou": 0.3506435102081261,
+        "dice": 0.5192243661010062,
+        "pixel_accuracy": 0.8266764322916667,
+        "pixels": {
+          "tp": 184010,
+          "fp": 180182,
+          "fn": 160586,
+          "tn": 1441302
+        }
+      },
+      "validation": {
+        "loss": 0.8812440037727356,
+        "iou": 0.4156021452949781,
+        "dice": 0.5871736584693807,
+        "pixel_accuracy": 0.8536865234375,
+        "pixels": {
+          "tp": 42620,
+          "fp": 23487,
+          "fn": 36443,
+          "tn": 307050
+        }
+      }
+    },
+    {
+      "epoch": 9,
+      "train": {
+        "loss": 0.8914515137672424,
+        "iou": 0.4116261146776973,
+        "dice": 0.5831942472553079,
+        "pixel_accuracy": 0.8435129801432292,
+        "pixels": {
+          "tp": 215243,
+          "fp": 178313,
+          "fn": 129353,
+          "tn": 1443171
+        }
+      },
+      "validation": {
+        "loss": 0.8106704235076905,
+        "iou": 0.46517738676471865,
+        "dice": 0.6349775678587071,
+        "pixel_accuracy": 0.84943359375,
+        "pixels": {
+          "tp": 53641,
+          "fp": 36250,
+          "fn": 25422,
+          "tn": 294287
+        }
+      }
+    },
+    {
+      "epoch": 10,
+      "train": {
+        "loss": 0.8058080156644185,
+        "iou": 0.4444900684692586,
+        "dice": 0.6154283482755813,
+        "pixel_accuracy": 0.8582504272460938,
+        "pixels": {
+          "tp": 222994,
+          "fp": 157089,
+          "fn": 121602,
+          "tn": 1464395
+        }
+      },
+      "validation": {
+        "loss": 0.7869666695594788,
+        "iou": 0.4560630578900663,
+        "dice": 0.62643311416874,
+        "pixel_accuracy": 0.87280029296875,
+        "pixels": {
+          "tp": 43684,
+          "fp": 16722,
+          "fn": 35379,
+          "tn": 313815
+        }
+      }
+    },
+    {
+      "epoch": 11,
+      "train": {
+        "loss": 0.7666365663210551,
+        "iou": 0.47136929293498725,
+        "dice": 0.64072193867079,
+        "pixel_accuracy": 0.8664530436197917,
+        "pixels": {
+          "tp": 234123,
+          "fp": 152091,
+          "fn": 110473,
+          "tn": 1469393
+        }
+      },
+      "validation": {
+        "loss": 0.746831955909729,
+        "iou": 0.47995599970943204,
+        "dice": 0.6486084718784403,
+        "pixel_accuracy": 0.87765380859375,
+        "pixels": {
+          "tp": 46250,
+          "fp": 17300,
+          "fn": 32813,
+          "tn": 313237
+        }
+      }
+    },
+    {
+      "epoch": 12,
+      "train": {
+        "loss": 0.7765005906422933,
+        "iou": 0.4641619340637959,
+        "dice": 0.6340308722212301,
+        "pixel_accuracy": 0.8655319213867188,
+        "pixels": {
+          "tp": 229011,
+          "fp": 148790,
+          "fn": 115585,
+          "tn": 1472694
+        }
+      },
+      "validation": {
+        "loss": 0.7139734077453613,
+        "iou": 0.4948418535306537,
+        "dice": 0.6620658263774073,
+        "pixel_accuracy": 0.87674560546875,
+        "pixels": {
+          "tp": 49454,
+          "fp": 20876,
+          "fn": 29609,
+          "tn": 309661
+        }
+      }
+    },
+    {
+      "epoch": 13,
+      "train": {
+        "loss": 0.7412629922231039,
+        "iou": 0.4843824286440317,
+        "dice": 0.6526383218999838,
+        "pixel_accuracy": 0.8720250447591146,
+        "pixels": {
+          "tp": 236367,
+          "fp": 143380,
+          "fn": 108229,
+          "tn": 1478104
+        }
+      },
+      "validation": {
+        "loss": 0.6765513753890992,
+        "iou": 0.5378038602908536,
+        "dice": 0.6994440242712561,
+        "pixel_accuracy": 0.87290283203125,
+        "pixels": {
+          "tp": 60575,
+          "fp": 33571,
+          "fn": 18488,
+          "tn": 296966
+        }
+      }
+    },
+    {
+      "epoch": 14,
+      "train": {
+        "loss": 0.7633447885513306,
+        "iou": 0.473501462348226,
+        "dice": 0.6426888258307347,
+        "pixel_accuracy": 0.8640304565429687,
+        "pixels": {
+          "tp": 240418,
+          "fp": 163149,
+          "fn": 104178,
+          "tn": 1458335
+        }
+      },
+      "validation": {
+        "loss": 0.7722615122795105,
+        "iou": 0.44439935510051876,
+        "dice": 0.6153413922974122,
+        "pixel_accuracy": 0.8763232421875,
+        "pixels": {
+          "tp": 40519,
+          "fp": 12114,
+          "fn": 38544,
+          "tn": 318423
+        }
+      }
+    },
+    {
+      "epoch": 15,
+      "train": {
+        "loss": 0.7470491886138916,
+        "iou": 0.47310732621628226,
+        "dice": 0.642325671451885,
+        "pixel_accuracy": 0.8684590657552084,
+        "pixels": {
+          "tp": 232220,
+          "fp": 146244,
+          "fn": 112376,
+          "tn": 1475240
+        }
+      },
+      "validation": {
+        "loss": 0.6925034499168397,
+        "iou": 0.5300995340750364,
+        "dice": 0.6928954911361214,
+        "pixel_accuracy": 0.88255126953125,
+        "pixels": {
+          "tp": 54270,
+          "fp": 23314,
+          "fn": 24793,
+          "tn": 307223
+        }
+      }
+    },
+    {
+      "epoch": 16,
+      "train": {
+        "loss": 0.7002091924349467,
+        "iou": 0.4989577980738948,
+        "dice": 0.6657396208419437,
+        "pixel_accuracy": 0.8770044962565104,
+        "pixels": {
+          "tp": 240813,
+          "fp": 138036,
+          "fn": 103783,
+          "tn": 1483448
+        }
+      },
+      "validation": {
+        "loss": 0.6664358282089233,
+        "iou": 0.5191205467975766,
+        "dice": 0.6834487860649674,
+        "pixel_accuracy": 0.885087890625,
+        "pixels": {
+          "tp": 50811,
+          "fp": 18816,
+          "fn": 28252,
+          "tn": 311721
+        }
+      }
+    },
+    {
+      "epoch": 17,
+      "train": {
+        "loss": 0.6900953014691671,
+        "iou": 0.5071372507554098,
+        "dice": 0.6729808456412602,
+        "pixel_accuracy": 0.8767176310221354,
+        "pixels": {
+          "tp": 249403,
+          "fp": 147190,
+          "fn": 95193,
+          "tn": 1474294
+        }
+      },
+      "validation": {
+        "loss": 0.6493708229064942,
+        "iou": 0.5442842782272626,
+        "dice": 0.7049016633803529,
+        "pixel_accuracy": 0.8860009765625,
+        "pixels": {
+          "tp": 55769,
+          "fp": 23400,
+          "fn": 23294,
+          "tn": 307137
+        }
+      }
+    },
+    {
+      "epoch": 18,
+      "train": {
+        "loss": 0.7059545358022054,
+        "iou": 0.49629270676552784,
+        "dice": 0.6633631301168909,
+        "pixel_accuracy": 0.8752278645833333,
+        "pixels": {
+          "tp": 241701,
+          "fp": 142417,
+          "fn": 102895,
+          "tn": 1479067
+        }
+      },
+      "validation": {
+        "loss": 0.746998643875122,
+        "iou": 0.4790237848132416,
+        "dice": 0.6477567024031714,
+        "pixel_accuracy": 0.881123046875,
+        "pixels": {
+          "tp": 44771,
+          "fp": 14400,
+          "fn": 34292,
+          "tn": 316137
+        }
+      }
+    },
+    {
+      "epoch": 19,
+      "train": {
+        "loss": 0.6798774639765421,
+        "iou": 0.5126894896671885,
+        "dice": 0.6778515923713954,
+        "pixel_accuracy": 0.8793665568033854,
+        "pixels": {
+          "tp": 249527,
+          "fp": 142106,
+          "fn": 95069,
+          "tn": 1479378
+        }
+      },
+      "validation": {
+        "loss": 0.669584379196167,
+        "iou": 0.5124760480933229,
+        "dice": 0.6776650099541968,
+        "pixel_accuracy": 0.8869482421875,
+        "pixels": {
+          "tp": 48676,
+          "fp": 15919,
+          "fn": 30387,
+          "tn": 314618
+        }
+      }
+    },
+    {
+      "epoch": 20,
+      "train": {
+        "loss": 0.6609639286994934,
+        "iou": 0.5225756647675307,
+        "dice": 0.6864363812714929,
+        "pixel_accuracy": 0.88424072265625,
+        "pixels": {
+          "tp": 249116,
+          "fp": 132112,
+          "fn": 95480,
+          "tn": 1489372
+        }
+      },
+      "validation": {
+        "loss": 0.6241938924789429,
+        "iou": 0.5567407838008042,
+        "dice": 0.7152645958712713,
+        "pixel_accuracy": 0.88830322265625,
+        "pixels": {
+          "tp": 57464,
+          "fp": 24152,
+          "fn": 21599,
+          "tn": 306385
+        }
+      }
+    },
+    {
+      "epoch": 21,
+      "train": {
+        "loss": 0.6670321027437845,
+        "iou": 0.5140982307726712,
+        "dice": 0.6790817403046799,
+        "pixel_accuracy": 0.8839599609375,
+        "pixels": {
+          "tp": 241383,
+          "fp": 124931,
+          "fn": 103213,
+          "tn": 1496553
+        }
+      },
+      "validation": {
+        "loss": 0.6297406005859375,
+        "iou": 0.5563513972065041,
+        "dice": 0.7149431654125148,
+        "pixel_accuracy": 0.88189697265625,
+        "pixels": {
+          "tp": 60664,
+          "fp": 29976,
+          "fn": 18399,
+          "tn": 300561
+        }
+      }
+    },
+    {
+      "epoch": 22,
+      "train": {
+        "loss": 0.6685638427734375,
+        "iou": 0.5180771477331072,
+        "dice": 0.6825438990458872,
+        "pixel_accuracy": 0.8820790608723958,
+        "pixels": {
+          "tp": 249235,
+          "fp": 136481,
+          "fn": 95361,
+          "tn": 1485003
+        }
+      },
+      "validation": {
+        "loss": 0.6272025489807129,
+        "iou": 0.559326443463595,
+        "dice": 0.7173949313925726,
+        "pixel_accuracy": 0.88007568359375,
+        "pixels": {
+          "tp": 62347,
+          "fp": 32405,
+          "fn": 16716,
+          "tn": 298132
+        }
+      }
+    },
+    {
+      "epoch": 23,
+      "train": {
+        "loss": 0.6399048248926799,
+        "iou": 0.5340826295208901,
+        "dice": 0.696289260100272,
+        "pixel_accuracy": 0.8900655110677084,
+        "pixels": {
+          "tp": 247762,
+          "fp": 119306,
+          "fn": 96834,
+          "tn": 1502178
+        }
+      },
+      "validation": {
+        "loss": 0.5864568090438843,
+        "iou": 0.5731726328507123,
+        "dice": 0.728683706901357,
+        "pixel_accuracy": 0.89304931640625,
+        "pixels": {
+          "tp": 58827,
+          "fp": 23571,
+          "fn": 20236,
+          "tn": 306966
+        }
+      }
+    },
+    {
+      "epoch": 24,
+      "train": {
+        "loss": 0.6252366622289022,
+        "iou": 0.5381766569423403,
+        "dice": 0.699759230532276,
+        "pixel_accuracy": 0.8894485473632813,
+        "pixels": {
+          "tp": 253288,
+          "fp": 126045,
+          "fn": 91308,
+          "tn": 1495439
+        }
+      },
+      "validation": {
+        "loss": 0.6395789074897766,
+        "iou": 0.5383478661859646,
+        "dice": 0.6999039398295442,
+        "pixel_accuracy": 0.89245849609375,
+        "pixels": {
+          "tp": 51367,
+          "fp": 16353,
+          "fn": 27696,
+          "tn": 314184
+        }
+      }
+    },
+    {
+      "epoch": 25,
+      "train": {
+        "loss": 0.6327176074186961,
+        "iou": 0.5327064813923387,
+        "dice": 0.6951187169358328,
+        "pixel_accuracy": 0.8889058430989584,
+        "pixels": {
+          "tp": 248995,
+          "fp": 122819,
+          "fn": 95601,
+          "tn": 1498665
+        }
+      },
+      "validation": {
+        "loss": 0.6360716843605041,
+        "iou": 0.5451237341130521,
+        "dice": 0.7056052820597823,
+        "pixel_accuracy": 0.8959326171875,
+        "pixels": {
+          "tp": 51083,
+          "fp": 14646,
+          "fn": 27980,
+          "tn": 315891
+        }
+      }
+    },
+    {
+      "epoch": 26,
+      "train": {
+        "loss": 0.6256867329279582,
+        "iou": 0.5406621098467785,
+        "dice": 0.7018568268684797,
+        "pixel_accuracy": 0.89263916015625,
+        "pixels": {
+          "tp": 248451,
+          "fp": 114935,
+          "fn": 96145,
+          "tn": 1506549
+        }
+      },
+      "validation": {
+        "loss": 0.6006329035758973,
+        "iou": 0.5699613139610801,
+        "dice": 0.7260832593677651,
+        "pixel_accuracy": 0.89225830078125,
+        "pixels": {
+          "tp": 58490,
+          "fp": 23558,
+          "fn": 20573,
+          "tn": 306979
+        }
+      }
+    },
+    {
+      "epoch": 27,
+      "train": {
+        "loss": 0.6465736587842306,
+        "iou": 0.5228377189611144,
+        "dice": 0.6866624229898853,
+        "pixel_accuracy": 0.8863332112630208,
+        "pixels": {
+          "tp": 244870,
+          "fp": 123752,
+          "fn": 99726,
+          "tn": 1497732
+        }
+      },
+      "validation": {
+        "loss": 0.6390293145179748,
+        "iou": 0.5594888541295061,
+        "dice": 0.7175285064051429,
+        "pixel_accuracy": 0.8824267578125,
+        "pixels": {
+          "tp": 61165,
+          "fp": 30260,
+          "fn": 17898,
+          "tn": 300277
+        }
+      }
+    },
+    {
+      "epoch": 28,
+      "train": {
+        "loss": 0.6671721776326497,
+        "iou": 0.5175315120689948,
+        "dice": 0.6820702014462883,
+        "pixel_accuracy": 0.8845911661783854,
+        "pixels": {
+          "tp": 243393,
+          "fp": 125700,
+          "fn": 101203,
+          "tn": 1495784
+        }
+      },
+      "validation": {
+        "loss": 0.6323884201049804,
+        "iou": 0.5532780774459501,
+        "dice": 0.7124005488517592,
+        "pixel_accuracy": 0.87565185546875,
+        "pixels": {
+          "tp": 63082,
+          "fp": 34952,
+          "fn": 15981,
+          "tn": 295585
+        }
+      }
+    },
+    {
+      "epoch": 29,
+      "train": {
+        "loss": 0.64877716700236,
+        "iou": 0.5275331602246695,
+        "dice": 0.6906994544682485,
+        "pixel_accuracy": 0.8836690266927083,
+        "pixels": {
+          "tp": 255373,
+          "fp": 139493,
+          "fn": 89223,
+          "tn": 1481991
+        }
+      },
+      "validation": {
+        "loss": 0.5918827509880066,
+        "iou": 0.5783279957937001,
+        "dice": 0.7328362638627265,
+        "pixel_accuracy": 0.89231201171875,
+        "pixels": {
+          "tp": 60496,
+          "fp": 25542,
+          "fn": 18567,
+          "tn": 304995
+        }
+      }
+    },
+    {
+      "epoch": 30,
+      "train": {
+        "loss": 0.6128602544466655,
+        "iou": 0.5412961952595474,
+        "dice": 0.7023908797340482,
+        "pixel_accuracy": 0.8918121337890625,
+        "pixels": {
+          "tp": 251005,
+          "fp": 119115,
+          "fn": 93591,
+          "tn": 1502369
+        }
+      },
+      "validation": {
+        "loss": 0.5859980273246765,
+        "iou": 0.5829296445417943,
+        "dice": 0.7365199666982459,
+        "pixel_accuracy": 0.88796630859375,
+        "pixels": {
+          "tp": 64138,
+          "fp": 30964,
+          "fn": 14925,
+          "tn": 299573
+        }
+      }
+    }
+  ],
+  "data": {
+    "seed": 42,
+    "size": 128,
+    "sha256": "870f3648fd26cbda7a7548473610e059433658dad726f65c1ea9bb8976c44c09",
+    "split": {
+      "train": [
+        "PennPed00059.png",
+        "PennPed00014.png",
+        "FudanPed00007.png",
+        "FudanPed00037.png",
+        "PennPed00021.png",
+        "FudanPed00071.png",
+        "FudanPed00059.png",
+        "PennPed00084.png",
+        "PennPed00029.png",
+        "FudanPed00045.png",
+        "FudanPed00029.png",
+        "PennPed00071.png",
+        "PennPed00001.png",
+        "PennPed00070.png",
+        "PennPed00028.png",
+        "FudanPed00009.png",
+        "PennPed00068.png",
+        "PennPed00056.png",
+        "FudanPed00074.png",
+        "FudanPed00035.png",
+        "FudanPed00070.png",
+        "PennPed00053.png",
+        "PennPed00034.png",
+        "PennPed00030.png",
+        "PennPed00004.png",
+        "PennPed00095.png",
+        "PennPed00054.png",
+        "PennPed00096.png",
+        "FudanPed00050.png",
+        "FudanPed00021.png",
+        "FudanPed00016.png",
+        "FudanPed00041.png",
+        "PennPed00026.png",
+        "PennPed00078.png",
+        "FudanPed00048.png",
+        "PennPed00041.png",
+        "PennPed00036.png",
+        "PennPed00058.png",
+        "PennPed00005.png",
+        "FudanPed00073.png",
+        "PennPed00033.png",
+        "PennPed00019.png",
+        "PennPed00010.png",
+        "FudanPed00033.png",
+        "PennPed00082.png",
+        "FudanPed00026.png",
+        "FudanPed00054.png",
+        "PennPed00038.png",
+        "PennPed00020.png",
+        "PennPed00044.png",
+        "PennPed00007.png",
+        "PennPed00015.png",
+        "PennPed00091.png",
+        "PennPed00088.png",
+        "FudanPed00042.png",
+        "FudanPed00036.png",
+        "PennPed00086.png",
+        "PennPed00063.png",
+        "PennPed00051.png",
+        "FudanPed00051.png",
+        "PennPed00013.png",
+        "PennPed00037.png",
+        "PennPed00009.png",
+        "PennPed00048.png",
+        "PennPed00085.png",
+        "FudanPed00034.png",
+        "FudanPed00049.png",
+        "PennPed00017.png",
+        "PennPed00062.png",
+        "FudanPed00064.png",
+        "PennPed00074.png",
+        "FudanPed00060.png",
+        "FudanPed00063.png",
+        "FudanPed00052.png",
+        "FudanPed00022.png",
+        "PennPed00066.png",
+        "FudanPed00002.png",
+        "FudanPed00044.png",
+        "FudanPed00053.png",
+        "PennPed00016.png",
+        "PennPed00031.png",
+        "PennPed00093.png",
+        "PennPed00045.png",
+        "FudanPed00061.png",
+        "PennPed00075.png",
+        "PennPed00092.png",
+        "FudanPed00025.png",
+        "PennPed00060.png",
+        "FudanPed00004.png",
+        "FudanPed00012.png",
+        "PennPed00024.png",
+        "PennPed00012.png",
+        "FudanPed00010.png",
+        "FudanPed00046.png",
+        "PennPed00050.png",
+        "PennPed00042.png",
+        "PennPed00052.png",
+        "FudanPed00003.png",
+        "FudanPed00024.png",
+        "FudanPed00056.png",
+        "PennPed00067.png",
+        "FudanPed00062.png",
+        "FudanPed00027.png",
+        "PennPed00094.png",
+        "FudanPed00006.png",
+        "PennPed00073.png",
+        "PennPed00025.png",
+        "FudanPed00011.png",
+        "FudanPed00031.png",
+        "PennPed00022.png",
+        "PennPed00023.png",
+        "FudanPed00015.png",
+        "PennPed00035.png",
+        "PennPed00079.png",
+        "PennPed00055.png",
+        "PennPed00076.png",
+        "FudanPed00040.png",
+        "PennPed00090.png",
+        "FudanPed00030.png",
+        "FudanPed00038.png"
+      ],
+      "validation": [
+        "FudanPed00057.png",
+        "PennPed00080.png",
+        "PennPed00002.png",
+        "FudanPed00023.png",
+        "FudanPed00065.png",
+        "FudanPed00039.png",
+        "FudanPed00069.png",
+        "FudanPed00067.png",
+        "FudanPed00019.png",
+        "PennPed00008.png",
+        "FudanPed00008.png",
+        "PennPed00069.png",
+        "PennPed00083.png",
+        "PennPed00061.png",
+        "PennPed00039.png",
+        "FudanPed00014.png",
+        "PennPed00087.png",
+        "FudanPed00072.png",
+        "PennPed00006.png",
+        "PennPed00027.png",
+        "FudanPed00028.png",
+        "PennPed00049.png",
+        "PennPed00072.png",
+        "PennPed00081.png",
+        "FudanPed00043.png"
+      ],
+      "test": [
+        "PennPed00040.png",
+        "PennPed00011.png",
+        "FudanPed00005.png",
+        "FudanPed00001.png",
+        "PennPed00047.png",
+        "PennPed00046.png",
+        "PennPed00077.png",
+        "FudanPed00066.png",
+        "FudanPed00013.png",
+        "FudanPed00068.png",
+        "PennPed00089.png",
+        "PennPed00043.png",
+        "FudanPed00055.png",
+        "PennPed00032.png",
+        "FudanPed00017.png",
+        "FudanPed00018.png",
+        "PennPed00065.png",
+        "FudanPed00047.png",
+        "FudanPed00058.png",
+        "PennPed00018.png",
+        "PennPed00003.png",
+        "PennPed00057.png",
+        "PennPed00064.png",
+        "FudanPed00020.png",
+        "FudanPed00032.png"
+      ]
+    }
+  },
+  "initial_validation": {
+    "loss": 1.4221249961853026,
+    "iou": 0.0020293377093537437,
+    "dice": 0.0040504556762635795,
+    "pixel_accuracy": 0.80550048828125,
+    "pixels": {
+      "tp": 162,
+      "fp": 766,
+      "fn": 78901,
+      "tn": 329771
+    }
+  },
+  "environment": {
+    "python": "3.13.2",
+    "torch": "2.14.1",
+    "platform": "macOS-14.7.4-arm64-arm-64bit-Mach-O",
+    "device": "cpu",
+    "threads": 4
+  },
+  "best_epoch": 30,
+  "training_seconds": 139.19
+}

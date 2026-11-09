@@ -1,0 +1,20 @@
+{
+  "test_loss": 1.7145189061827724,
+  "test_perplexity": 5.554002873074749,
+  "parameters": 268161,
+  "data": {
+    "characters": 1115394,
+    "vocabulary_size": 65,
+    "split_characters": [
+      892315,
+      111539,
+      111540
+    ],
+    "windows": [
+      8923,
+      1115,
+      1115
+    ],
+    "sha256": "86c4e6aa9db7c042ec79f339dcb96d42b0075e16b8fc2e86bf0ca57e2dc565ed"
+  }
+}

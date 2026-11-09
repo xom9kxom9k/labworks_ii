@@ -1,0 +1,13 @@
+test_data (test_main.SegmentationTests.test_data) ... ok
+test_learning (test_main.SegmentationTests.test_learning) ... ok
+test_metrics (test_main.SegmentationTests.test_metrics) ... ok
+test_paired_flip (test_main.SegmentationTests.test_paired_flip) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 2.757s
+
+OK
+
+Повторная оценка: python main.py --evaluate — выполнена успешно.
+metrics.json до и после загрузки весов совпадают побайтово (cmp).
+Отчёт Word: 6 страниц, отрендерен и визуально проверен.

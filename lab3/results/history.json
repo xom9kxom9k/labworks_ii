@@ -1,0 +1,80 @@
+{
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 2.323505028018526,
+      "validation_loss": 1.9571628298994672
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.7472478302153294,
+      "validation_loss": 1.7445768317834145
+    },
+    {
+      "epoch": 3,
+      "train_loss": 1.5818497508440292,
+      "validation_loss": 1.644703230088067
+    },
+    {
+      "epoch": 4,
+      "train_loss": 1.5021511108154113,
+      "validation_loss": 1.5962974515196453
+    },
+    {
+      "epoch": 5,
+      "train_loss": 1.4528173491463965,
+      "validation_loss": 1.5664512142472202
+    },
+    {
+      "epoch": 6,
+      "train_loss": 1.4188182187911362,
+      "validation_loss": 1.5435351356797153
+    },
+    {
+      "epoch": 7,
+      "train_loss": 1.393098037018178,
+      "validation_loss": 1.539363120489591
+    },
+    {
+      "epoch": 8,
+      "train_loss": 1.3728137941193743,
+      "validation_loss": 1.5304178495578167
+    },
+    {
+      "epoch": 9,
+      "train_loss": 1.3560113662376434,
+      "validation_loss": 1.518992607689759
+    },
+    {
+      "epoch": 10,
+      "train_loss": 1.3408054616383662,
+      "validation_loss": 1.5188199169432637
+    }
+  ],
+  "seed": 42,
+  "data": {
+    "characters": 1115394,
+    "vocabulary_size": 65,
+    "split_characters": [
+      892315,
+      111539,
+      111540
+    ],
+    "windows": [
+      8923,
+      1115,
+      1115
+    ],
+    "sha256": "86c4e6aa9db7c042ec79f339dcb96d42b0075e16b8fc2e86bf0ca57e2dc565ed"
+  },
+  "initial_validation_loss": 4.173795672703217,
+  "environment": {
+    "python": "3.13.2",
+    "torch": "2.14.1",
+    "platform": "macOS-14.7.4-arm64-arm-64bit-Mach-O",
+    "device": "cpu",
+    "threads": 4
+  },
+  "best_epoch": 10,
+  "training_seconds": 102.94
+}

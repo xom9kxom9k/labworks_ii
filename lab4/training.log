@@ -1,0 +1,46 @@
+2026-11-04 10:34:53.315 system_profiler[35374:2936084] XType: Using static font registry.
+Matplotlib is building the font cache; this may take a moment.
+Эпоха 1/30: loss=1.3998; val_loss=1.3184; val_IoU=0.0000
+Эпоха 2/30: loss=1.3024; val_loss=1.2949; val_IoU=0.0000
+Эпоха 3/30: loss=1.2740; val_loss=1.2574; val_IoU=0.0000
+Эпоха 4/30: loss=1.2439; val_loss=1.2131; val_IoU=0.0000
+Эпоха 5/30: loss=1.1935; val_loss=1.1377; val_IoU=0.0004
+Эпоха 6/30: loss=1.1287; val_loss=1.0819; val_IoU=0.3944
+Эпоха 7/30: loss=1.0535; val_loss=1.0065; val_IoU=0.3678
+Эпоха 8/30: loss=1.0045; val_loss=0.8812; val_IoU=0.4156
+Эпоха 9/30: loss=0.8915; val_loss=0.8107; val_IoU=0.4652
+Эпоха 10/30: loss=0.8058; val_loss=0.7870; val_IoU=0.4561
+Эпоха 11/30: loss=0.7666; val_loss=0.7468; val_IoU=0.4800
+Эпоха 12/30: loss=0.7765; val_loss=0.7140; val_IoU=0.4948
+Эпоха 13/30: loss=0.7413; val_loss=0.6766; val_IoU=0.5378
+Эпоха 14/30: loss=0.7633; val_loss=0.7723; val_IoU=0.4444
+Эпоха 15/30: loss=0.7470; val_loss=0.6925; val_IoU=0.5301
+Эпоха 16/30: loss=0.7002; val_loss=0.6664; val_IoU=0.5191
+Эпоха 17/30: loss=0.6901; val_loss=0.6494; val_IoU=0.5443
+Эпоха 18/30: loss=0.7060; val_loss=0.7470; val_IoU=0.4790
+Эпоха 19/30: loss=0.6799; val_loss=0.6696; val_IoU=0.5125
+Эпоха 20/30: loss=0.6610; val_loss=0.6242; val_IoU=0.5567
+Эпоха 21/30: loss=0.6670; val_loss=0.6297; val_IoU=0.5564
+Эпоха 22/30: loss=0.6686; val_loss=0.6272; val_IoU=0.5593
+Эпоха 23/30: loss=0.6399; val_loss=0.5865; val_IoU=0.5732
+Эпоха 24/30: loss=0.6252; val_loss=0.6396; val_IoU=0.5383
+Эпоха 25/30: loss=0.6327; val_loss=0.6361; val_IoU=0.5451
+Эпоха 26/30: loss=0.6257; val_loss=0.6006; val_IoU=0.5700
+Эпоха 27/30: loss=0.6466; val_loss=0.6390; val_IoU=0.5595
+Эпоха 28/30: loss=0.6672; val_loss=0.6324; val_IoU=0.5533
+Эпоха 29/30: loss=0.6488; val_loss=0.5919; val_IoU=0.5783
+Эпоха 30/30: loss=0.6129; val_loss=0.5860; val_IoU=0.5829
+{
+  "loss": 0.6362892627716065,
+  "iou": 0.508623421302793,
+  "dice": 0.674288114741801,
+  "pixel_accuracy": 0.893994140625,
+  "pixels": {
+    "tp": 44944,
+    "fp": 30920,
+    "fn": 12500,
+    "tn": 321236
+  },
+  "mean_image_iou": 0.5179612234539818,
+  "mean_image_dice": 0.6696022963406066
+}
